@@ -1,0 +1,6 @@
+{
+  "watch": ["*.js", "routes", "controllers", "services"],
+  "ext": "js json",
+  "ignore": ["node_modules"],
+  "exec": "node --env-file .env zapito-server.js"
+}

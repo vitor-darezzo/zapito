@@ -1,0 +1,25 @@
+{
+  "name": "zapito",
+  "version": "1.0.0",
+  "description": "Zapito – WhatsApp Business chatbot using the Meta Cloud API (Node.js / Express)",
+  "main": "zapito-server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon zapito-server.js",
+    "start": "node zapito-server.js"
+  },
+  "author": "V. Darezzo & ChatGPT co‑pilot",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.14.3",
+    "morgan": "^1.10.0",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
