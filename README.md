@@ -141,10 +141,3 @@ Logs esperados:
 - Dashboard com métricas e KPIs
 - Exportação de histórico
 
----
-
-## 📄 Licença
-
-Distribuído sob a licença MIT.  
-Desenvolvido com 💙 por CIKALA.
-
