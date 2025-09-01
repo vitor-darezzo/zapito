@@ -51,7 +51,7 @@ APP_SECRET=seu_app_secret_meta
 MONGODB_URI=mongodb://localhost:27017/zapito
 PORT=3000
 VERIFY_TOKEN=token_de_verificacao
-RESTART_KEYS=vitoreocara2025,marionaosabeprogramar,dev_reset
+RESTART_KEYS=vitoreocara2025,dev_reset
 NODE_ENV=development
 ```
 
